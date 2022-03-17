@@ -1,4 +1,3 @@
-
 # FCAI - Programming 1 - 2022 - Assignment 2
 # Program Name: Guess-num-game
 # Program Description: A guess number game with 10 attempts  
