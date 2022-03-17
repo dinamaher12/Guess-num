@@ -1,7 +1,10 @@
-# Guess-num
-# Description: This is a simple guess num game .
-# There are 10 attempts .
-# Author : Dina Maher (FCAI) .
+
+# FCAI - Programming 1 - 2022 - Assignment 2
+# Program Name: Guess-num-game
+# Program Description: A guess number game with 10 attempts  
+# Last Modification Date: 10/3/2022
+# Author: Dina Maher 20210547 
+# Teaching Assistant: Eng
 
 # import libraries
 from tkinter import *
